@@ -3,13 +3,4 @@ layout: page
 title: About
 ---
 
-This is an about page about this awesome site.
-Hope you love it!
-
-Reasons:
-- its great.
-- its a test.
-
-## Other thoughts
-
-This is great.
+Amante del diseño web y gráfico, así como del marketing online y las redes sociales. Apasionada de la naturaleza, la música, el deporte y el desarrollo personal. Aprendiendo algo nuevo cada día.
