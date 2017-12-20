@@ -23,4 +23,4 @@ title: Now
 
 *Last updated:* December 20, 2017
 
-*Inspiration:* I first learned about "now" pages from [Tania Rascia](https://taniarascia.com) who got the idea from [Derek Sivers'](https://sivers.org/).
+*Inspiration:* I first learned about "now" pages from [Tania Rascia](https://taniarascia.com) who got the idea from [Derek Sivers](https://sivers.org/).
