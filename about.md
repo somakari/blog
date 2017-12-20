@@ -3,4 +3,10 @@ layout: page
 title: About
 ---
 
-Amante del diseño web y gráfico, así como del marketing online y las redes sociales. Apasionada de la naturaleza, la música, el deporte y el desarrollo personal. Aprendiendo algo nuevo cada día.
+## Hola 🙋
+
+Soy administradora de sistemas informáticos y ambientóloga de formación. Mis inquietudes personales me llevaron a plantearme el desarrollo web y el diseño gráfico como opción profesional, donde he descubierto mi camino.
+
+El marketing y el desarrollo personal me fascinan. Pero sobre todo, me encanta dibujar letras (lettering), la caligrafía y la fotografíia.
+
+**¿Qué estoy haciendo ahora?** Visita [mi página "now"](https://somval.github.io/blog/now.html), que actualizo a menudo.
