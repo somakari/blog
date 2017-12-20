@@ -1,18 +1,12 @@
 <footer class="site-footer">
   
   <div class="wrapper">
-    
-     <h2 class="footer-heading"><a href="{{ "/" | prepend: site.url }}">Somval</a> - <script> document.write(new Date().getFullYear()) </script></h2> 
       
      <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li>
-            {% if site.author %}
-              {{ site.author | escape }}
-            {% else %}
-              {{ site.title | escape }}
-            {% endif %}
+             <h2 class="footer-heading"><a href="{{ "/" | prepend: site.url }}">Somval</a> - <script> document.write(new Date().getFullYear()) </script></h2> 
             </li>
             {% if site.email %}
             <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
