@@ -18,9 +18,8 @@ title: Now
 
 - [Shameless](http://www.sho.com/shameless)
 - [The Big Bang Theory](http://www.cbs.com/shows/big_bang_theory/)
-- [Broad City](http://www.cc.com/shows/broad-city)
-- [Mr. Robot](http://www.usanetwork.com/mrrobot)
+- [Dark](http://www.imdb.com/title/tt5753856/)
 
-*Last updated:* December 20, 2017
+*Last updated:* December 22, 2017
 
 *Inspiration:* I first learned about "now" pages from [Tania Rascia](https://taniarascia.com) who got the idea from [Derek Sivers](https://sivers.org/).
