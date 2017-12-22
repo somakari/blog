@@ -1,0 +1,15 @@
+---
+# front matter
+---
+
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+// Import partials.
+@import
+  "base",
+  "layout"
+;
