@@ -7,7 +7,7 @@ description: Amante del diseño web y gráfico, así como del marketing online. 
 twitter_username: somvalprints
 github_username: somval
 
-# google_analytics:
+# google_analytics: UA-12345678-1 / "UA_123456_1" 
 
 # Build settings
 markdown: kramdown
