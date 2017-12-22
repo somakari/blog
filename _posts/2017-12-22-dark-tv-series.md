@@ -4,6 +4,8 @@ title: Dark
 categories: TV-series
 ---
 
+{% include image.html file="dark-tv-series.jpg" alt="dark tv series poster" width="45%" %}
+
 [Netflix TV series](https://www.netflix.com/es-en/title/80100172) (2017 - )
 
 *Creators:* Baran bo Odar, Jantje Friese
