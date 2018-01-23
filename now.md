@@ -12,7 +12,7 @@ title: Now
 
 ### I’m currently reading:
 
-- [La biblioteca de los libros rechazados](https://www.goodreads.com/book/show/34150150-la-biblioteca-de-los-libros-rechazados) by David Foenkinos
+- ~~[La biblioteca de los libros rechazados](https://www.goodreads.com/book/show/34150150-la-biblioteca-de-los-libros-rechazados) by David Foenkinos~~
 - [El Poder del Ahora](https://www.goodreads.com/book/show/5737979-el-poder-del-ahora) by Eckhart Tolle
 
 ### TV Series I'm currently watching:
