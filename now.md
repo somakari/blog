@@ -19,8 +19,8 @@ title: Now
 
 - [Shameless](http://www.sho.com/shameless)
 - [The Big Bang Theory](http://www.cbs.com/shows/big_bang_theory/)
-- [Dark](http://www.imdb.com/title/tt5753856/)
+- ~~[Dark](http://www.imdb.com/title/tt5753856/)~~
 
-*Last updated:* December 22, 2017
+*Last updated:* January 23, 2018
 
 *Inspiration:* I first learned about "now" pages from [Tania Rascia](https://taniarascia.com) who got the idea from [Derek Sivers](https://sivers.org/).
