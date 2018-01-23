@@ -9,4 +9,4 @@ Soy administradora de sistemas informáticos y ambientóloga de formación. Mis 
 
 El marketing y el desarrollo personal me fascinan. Pero sobre todo, me encanta dibujar letras (lettering), la caligrafía y la fotografía.
 
-**¿Qué estoy haciendo ahora?** Visita [mi página "now"](http://gilfinart.com/blog/now.html), que actualizo a menudo.
+**¿Qué estoy haciendo ahora?** Visita [mi página "now"](https://gilfinart.com/blog/now.html), que actualizo a menudo.
