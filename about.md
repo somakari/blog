@@ -10,3 +10,5 @@ Soy administradora de sistemas informáticos y ambientóloga de formación. Mis 
 El marketing y el desarrollo personal me fascinan. Pero sobre todo, me encanta dibujar letras (lettering), la caligrafía y la fotografía.
 
 **¿Qué estoy haciendo ahora?** Visita [mi página "now"](https://somval.github.io/blog/now.html), que actualizo a menudo.
+
+<a href="http://thecatapi.com"><img src="http://thecatapi.com/api/images/get?format=src&type=gif"></a>
