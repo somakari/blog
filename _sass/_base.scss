@@ -18,7 +18,7 @@ figure > img {
  * Tables
  */
 table {
-  margin-bottom: $spacing-unit;
+  margin-bottom: 30px !default;
   width: 100%;
   text-align: $table-text-align;
   color: lighten($text-color, 18%);
@@ -30,7 +30,7 @@ table {
     }
   }
   th, td {
-    padding: ($spacing-unit / 3) ($spacing-unit / 2);
+    padding: (30px !default / 3) (30px !default / 2);
   }
   th {
     background-color: lighten($grey-color-light, 3%);
