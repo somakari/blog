@@ -9,3 +9,7 @@ categories: quotes
 > "La necesidad de cambio allanó el camino para llegar al centro de mi mente." 
 
 —Maya Angelou
+
+>The distinction between past, present, and future is only a stubbornly persistent illusion. 
+
+—Albert Einstein
