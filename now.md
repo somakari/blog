@@ -12,7 +12,7 @@ title: Now
 - #100DaysOfCode
   - [Improving JS skills](http://www.video2brain.com/es/formadores/sergio-brito)
   - [Front End Development Certification](https://www.freecodecamp.org) 
-- #100DaysOfFArt
+- #100DaysOfArt
   - [Improving Photoshop skills](http://www.youtube.com/watch?v=sF_jSrBhdlg)
 - ~~[Learning German](http://www.languagetransfer.org/complete-german)~~
 
