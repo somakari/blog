@@ -12,11 +12,13 @@ title: Now
 - #100DaysOfCode
   - [Improving JS skills](http://www.video2brain.com/es/formadores/sergio-brito)
   - [Front End Development Certification](https://www.freecodecamp.org) 
+  - [Captain’s Log](https://codepen.io/somval/)
 - #100DaysOfArt
   - [Improving Photoshop skills](http://www.youtube.com/watch?v=sF_jSrBhdlg)
 - ~~[Learning German](http://www.languagetransfer.org/complete-german)~~
 
-[#100DaysOfX](http://100daysofx.com/)
+
+*Inspiration:* [#100DaysOfX](http://100daysofx.com/)
 
 ### I’m currently reading:
 
