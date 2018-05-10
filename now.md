@@ -6,10 +6,17 @@ title: Now
 ## What I'm doing now
 
 ### I'm focusing on:
-- Meditating & eating healthy vegan food
+- #100DaysOfFitness
+- #100DaysOfMeditation
+  - Meditating & eating healthy vegan food
+- #100DaysOfCode
+  - [Improving JS skills](http://www.video2brain.com/es/formadores/sergio-brito)
+  - [Front End Development Certification](https://www.freecodecamp.org) 
+- #100DaysOfFArt
+  - [Improving Photoshop skills](http://www.youtube.com/watch?v=sF_jSrBhdlg)
 - ~~[Learning German](http://www.languagetransfer.org/complete-german)~~
-- [Improving JS skills](http://www.video2brain.com/es/formadores/sergio-brito)
-- ~~[Improving Photoshop skills](http://www.youtube.com/watch?v=sF_jSrBhdlg)~~
+
+[#100DaysOfX](http://100daysofx.com/)
 
 ### I’m currently reading:
 
@@ -24,6 +31,6 @@ title: Now
 - [The Good Fight](http://www.cbs.com/shows/the-good-fight/)
 - ~~[Shameless](http://www.sho.com/shameless)~~
 
-*Last updated:* April 26, 2018
+*Last updated:* May 10, 2018
 
 *Inspiration:* I first learned about "now" pages from [Tania Rascia](https://taniarascia.com) who got the idea from [Derek Sivers](https://sivers.org/).
