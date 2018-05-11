@@ -6,4 +6,4 @@ It's not in my power to make another person happy."
 _____
 Resource: 
 
-["The one and only you"](https://openlibrary.org/works/OL4128254W/The_one_and_only_you) by Bruce Larson (1974)
+["The one and only you"](https://archive.org/stream/oneonlyyou00lars) by Bruce Larson (1974)
