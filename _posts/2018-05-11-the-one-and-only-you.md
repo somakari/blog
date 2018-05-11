@@ -5,6 +5,8 @@ It's not in my power to make another person happy."
 
 ## El Buda de Oro
 
+![Golden Buddha]({{ site.url }}img/Buddha.jpg)
+
 En 1957, un grupo de monjes de un monasterio tuvo que reubicar un gran Buda de arcilla. Tenían que sacarlo de su templo y llevarlo hacia otro lugar. En realidad tenían que trasladar todo el monasterio porque, por fin, el proyecto de la construcción de una autopista a través de Bangkok se haría realidad y el viejo edificio tenía que ser demolido.
 
 Cuando la grúa empezó a levantar al ídolo gigante, el peso era tan tremendo que empezó a rajarse. Para colmo, comenzó a llover. El monje director, preocupado por el posible daño que la maniobra podría causarle a la imagen sagrada, decidió volver a poner la estatua en el suelo y cubrirla con una lona grande para protegerla de la lluvia.
@@ -17,12 +19,11 @@ Los historiadores aseguran que varios cientos de años anteriores al descubrimie
 
 Por desgracia, parece ser que estos invasores asesinaron a todos los monjes siameses, y el secreto bien guardado del Buda de oro permaneció intacto hasta ese día de 1957.
 
-![Golden Buddha]({{ site.url }}img/Buddha.jpg)
-
 > Todos somos como el Buda de arcilla cubierto con una gruesa y dura capa creada por el miedo, y sin embargo cada uno de nosotros es un "Buda de oro" o una "esencia de oro", que es nuestro ser real. En algún momento de la infancia, comenzamos a cubrir nuestra 'esencia dorada', nuestro ser natural. Al igual que el monje con el martillo y el cincel, ahora nos toca descubrir, una vez más, nuestra verdadera esencia.
 -Jack Canfield
 
 _____
+
 Resources: 
 
 ["The one and only you"](https://archive.org/stream/oneonlyyou00lars) by Bruce Larson (1974)
