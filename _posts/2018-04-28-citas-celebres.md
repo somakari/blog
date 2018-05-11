@@ -13,3 +13,9 @@ categories: quotes
 
 > "The distinction between past, present, and future is only a stubbornly persistent illusion." 
 —Albert Einstein
+
+> "Noone is useless in this world who lightens the burden of it to anyone else."
+—Charles Dickens
+
+> "To avoid criticism, do nothing, say nothing, be nothing."
+—Elbert Hubbard
