@@ -17,7 +17,7 @@ Los historiadores aseguran que varios cientos de años anteriores al descubrimie
 
 Por desgracia, parece ser que estos invasores asesinaron a todos los monjes siameses, y el secreto bien guardado del Buda de oro permaneció intacto hasta ese día de 1957.
 
-![Golden Buddha]({{ site.url }}img/buddha.jpg)
+![Golden Buddha]({{ site.url }}img/Buddha.jpg)
 
 > Todos somos como el Buda de arcilla cubierto con una gruesa y dura capa creada por el miedo, y sin embargo cada uno de nosotros es un "Buda de oro" o una "esencia de oro", que es nuestro ser real. En algún momento de la infancia, comenzamos a cubrir nuestra 'esencia dorada', nuestro ser natural. Al igual que el monje con el martillo y el cincel, ahora nos toca descubrir, una vez más, nuestra verdadera esencia.
 -Jack Canfield
