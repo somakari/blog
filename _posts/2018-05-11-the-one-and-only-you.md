@@ -1,3 +1,9 @@
+---
+layout: post
+title: Live in your present
+image:  img/Buddha.jpg
+---
+
 ## Live in your present
 
 "I finally realized that I can't make anybody else happy. I can only share my happiness or my sorrow with someone else. 
