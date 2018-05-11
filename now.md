@@ -13,6 +13,8 @@ title: Now
 - #100DaysOfCode
   - [Improving JS skills](http://www.video2brain.com/es/formadores/sergio-brito)
   - [Front End Development Certification](https://www.freecodecamp.org) 
+  - [Beginner’s Guide to Pure CSS Images](https://codepen.io/mikemang/post/a-beginner-s-guide-to-pure-css-images)
+  - [How to Make Pure CSS Images](https://coding-artist.teachable.com/p/how-to-make-pure-css-images)
   - [Captain’s Log](https://codepen.io/somval/)
 - #100DaysOfArt
   - [Improving Photoshop skills](http://www.youtube.com/watch?v=sF_jSrBhdlg)
