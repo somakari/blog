@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Frases, refranes, citas, proverbios, pensamientos...
-permalink: /citas-celebres/
 categories: quotes
 ---
 
