@@ -6,6 +6,7 @@ title: Now
 ## What I'm doing now
 
 ### I'm focusing on:
+- [SEO Posicionamiento Natural en Buscadores](https://miriadax.net/web/seo-posicionamiento-natural-en-buscadores-3-edicion)
 - #100DaysOfFitness
 - #100DaysOfMeditation
   - Meditating & eating healthy vegan food
