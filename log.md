@@ -9,7 +9,7 @@ title: 100DaysOfX
 
 **Today's Progress**: FreeCodeCamp JQuery Playground.
 
-**Thoughts**: Writing code with on - Relaxing Jazz & Bossa Nova [Music Radio](https://youtu.be/2ccaHpy5Ewo)
+**Thoughts**: Writing code with music on - Relaxing Jazz & Bossa Nova [Music Radio](https://youtu.be/2ccaHpy5Ewo)
 
 **Link to work**: [JQuery Playground](https://codepen.io/somval/pen/zjJgwJ)
 
