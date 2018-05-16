@@ -27,9 +27,9 @@ title: 100DaysOfX
 
 ### Day 1: May 16, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Vuelve dulce lo amargo
 
-**Thoughts**: 
+**Thoughts**: Oportunismo
 
 **Link to work**: [example.com](http://www.example.com)
 
