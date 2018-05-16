@@ -31,7 +31,7 @@ title: 100DaysOfX
 
 **Thoughts**: Oportunismo
 
-**Link to work**: [Instagram](https://www.instagram.com/p/Bi18js1H_Dg/)
+**Link to work**: [Cuaderno](https://www.instagram.com/p/Bi18js1H_Dg/)
 
 
 # 100 Days Of Fitness - Log
