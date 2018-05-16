@@ -23,7 +23,7 @@ title: 100DaysOfX
 **Thoughts**: 
 
 
-# 100 Days Of Journal - Log
+# 100 Days Of Journaling - Log
 
 ### Day 1: May 16, 2018
 
