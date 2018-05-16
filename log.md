@@ -7,11 +7,11 @@ title: 100DaysOfX
 
 ### Day 1: May 16, 2018
 
-**Today's Progress**:
+**Today's Progress**: FreeCodeCamp JQuery Playground.
 
-**Thoughts**: 
+**Thoughts**: :)
 
-**Link to work**: [CatPhotoAPP](https://codepen.io/somval/pen/VxXPNP)
+**Link to work**: [JQuery Playground](https://codepen.io/somval/pen/zjJgwJ)
 
 
 # 100 Days Of Meditation - Log
