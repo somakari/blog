@@ -16,11 +16,12 @@ title: Now
   - [Beginner’s Guide to Pure CSS Images](https://codepen.io/mikemang/post/a-beginner-s-guide-to-pure-css-images)
   - [How to Make Pure CSS Images](https://coding-artist.teachable.com/p/how-to-make-pure-css-images)
   - [Captain’s Log](https://codepen.io/somval/)
-- #100DaysOfArt
-  - [Improving Photoshop skills](http://www.youtube.com/watch?v=sF_jSrBhdlg)
+- #100DaysOfJournal
+- ~~#100DaysOfArt~~
+  - ~~[Improving Photoshop skills](http://www.youtube.com/watch?v=sF_jSrBhdlg)~~
 - ~~[Learning German](http://www.languagetransfer.org/complete-german)~~
 
-
+*Log:* [100DaysOfX](https://gilfinart.com/blog/log.html)
 *Inspiration:* [#100DaysOfX](http://100daysofx.com/)
 
 ### I’m currently reading:
