@@ -17,12 +17,10 @@ title: 100DaysOfX
 
 **Today's Progress**: Using jQuery - FreeCodeCamp
 
-**Thoughts**: Writing code with music on - Relaxing Jazz & Bossa Nova [Music Radio](https://youtu.be/2ccaHpy5Ewo)
-
 **Link to work**: [JQuery Playground](https://codepen.io/somval/pen/zjJgwJ)
 
-# 100 Days Of Journaling - Log
 
+# 100 Days Of Journaling - Log
 
 ### Day 1: May 16, 2018
 
@@ -31,6 +29,14 @@ title: 100DaysOfX
 **Thoughts**: Oportunismo
 
 **Link to work**: [Cuaderno](https://www.instagram.com/p/Bi18js1H_Dg/)
+
+### Day 2: May 17, 2018
+
+**Today's Progress**: Fe en ti misma
+
+**Thoughts**: Rebasa tus límites
+
+**Link to work**: [#](https://www.instagram.com/somvale)
 
 
 # 100 Days Of Meditation - Log
