@@ -7,7 +7,6 @@ title: Now
 
 ### I'm focusing on:
 - [SEO Posicionamiento Natural en Buscadores](https://miriadax.net/web/seo-posicionamiento-natural-en-buscadores-3-edicion)
-- #100DaysOfFitness
 - #100DaysOfMeditation
   - Meditating & eating healthy vegan food
 - #100DaysOfCode
@@ -15,7 +14,6 @@ title: Now
   - [Front End Development Certification](https://www.freecodecamp.org) 
   - [Beginner’s Guide to Pure CSS Images](https://codepen.io/mikemang/post/a-beginner-s-guide-to-pure-css-images)
   - [How to Make Pure CSS Images](https://coding-artist.teachable.com/p/how-to-make-pure-css-images)
-  - [Captain’s Log](https://codepen.io/somval/)
 - #100DaysOfJournaling
 - ~~#100DaysOfArt~~
   - ~~[Improving Photoshop skills](http://www.youtube.com/watch?v=sF_jSrBhdlg)~~
