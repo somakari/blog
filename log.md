@@ -13,17 +13,16 @@ title: 100DaysOfX
 
 **Link to work**: [JQuery Playground](https://codepen.io/somval/pen/zjJgwJ)
 
+### Day 2: May 17, 2018
 
-# 100 Days Of Meditation - Log
+**Today's Progress**: Using jQuery - FreeCodeCamp
 
-### Day 1: May 16, 2018
+**Thoughts**: Writing code with music on - Relaxing Jazz & Bossa Nova [Music Radio](https://youtu.be/2ccaHpy5Ewo)
 
-**Today's Progress**: 
-
-**Thoughts**: 
-
+**Link to work**: [JQuery Playground](https://codepen.io/somval/pen/zjJgwJ)
 
 # 100 Days Of Journaling - Log
+
 
 ### Day 1: May 16, 2018
 
@@ -34,10 +33,10 @@ title: 100DaysOfX
 **Link to work**: [Cuaderno](https://www.instagram.com/p/Bi18js1H_Dg/)
 
 
-# 100 Days Of Fitness - Log
+# 100 Days Of Meditation - Log
 
-### Day 1: May 16, 2018
+### Day 1: May 17, 2018
 
-**Today's Progress**: 
+**Today's Progress**: 13 minutes [Inner Sound Meditation](https://www.youtube.com/watch?v=9vqtF68SkRM&feature=youtu.be)
 
-**Thoughts**: 
+**Thoughts**: [Insight Timer](https://bit.ly/1k97Jsk ) app & [Foam earplugs](https://bit.ly/2IbqhGC  ) 
