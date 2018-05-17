@@ -26,7 +26,6 @@ title: Now
 
 - [Awakening to the Infinite](http://www.goodreads.com/book/show/24924559-awakening-to-the-infinite) by Muktananda
 - [The Power of Positive Thinking](http://www.goodreads.com/book/show/1134122.The_Power_of_Positive_Thinking) by Norman Vincent Peale
-- [See You at the Top](http://www.goodreads.com/book/show/161415.See_You_at_the_Top) by Zig Ziglar
 - [Autobiography of a Yogi](http://www.goodreads.com/book/show/639864.Autobiography_of_a_Yogi) by Paramahansa Yogananda
 
 ### TV Series I'm currently watching:
