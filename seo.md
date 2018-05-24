@@ -3,7 +3,7 @@ layout: page
 title: SEO
 ---
 
-# SEO: Posicionamiento Natural en Buscadores
+# Posicionamiento Natural en Buscadores
 
 ## El SEO Local en Google
 #### Google My Business
