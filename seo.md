@@ -275,10 +275,9 @@ Monitorea su ranking en Google para cada una de sus keywords objetivo y muestra 
 
 
 
-[![Kitten vs mirror for the first time](https://i.imgur.com/U2dOH06.png)](https://www.youtube.com/watch?v=SlxdAJmeLcQ)
-
 
 __________
+
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"></a>
