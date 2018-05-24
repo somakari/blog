@@ -6,7 +6,6 @@ title: Now
 ## What I'm doing now
 
 ### I'm focusing on:
-- [SEO Posicionamiento Natural en Buscadores](https://miriadax.net/web/seo-posicionamiento-natural-en-buscadores-3-edicion)
 - #100DaysOfMeditation
   - Meditating & eating healthy vegan food
 - #100DaysOfCode
@@ -14,12 +13,10 @@ title: Now
   - [Front End Development Certification](https://www.freecodecamp.org) 
   - [Beginner’s Guide to Pure CSS Images](https://codepen.io/mikemang/post/a-beginner-s-guide-to-pure-css-images)
   - [How to Make Pure CSS Images](https://coding-artist.teachable.com/p/how-to-make-pure-css-images)
-- #100DaysOfJournaling
-- ~~#100DaysOfArt~~
-  - ~~[Improving Photoshop skills](http://www.youtube.com/watch?v=sF_jSrBhdlg)~~
-- ~~[Learning German](http://www.languagetransfer.org/complete-german)~~
+- [x] [SEO Posicionamiento Natural en Buscadores](https://gilfinart.com/blog/seo)
+- [x] [Improving Photoshop skills](http://www.youtube.com/watch?v=sF_jSrBhdlg)
+- [x] [Learning German](http://www.languagetransfer.org/complete-german)
 
-*Log:* [100DaysOfX](https://gilfinart.com/blog/log.html)
 *Inspiration:* [#100DaysOfX](http://100daysofx.com/)
 
 ### I’m currently reading:
@@ -30,9 +27,8 @@ title: Now
 
 ### TV Series I'm currently watching:
 
-- [Westworld](http://www.hbo.com/westworld)
 - [The Good Fight](http://www.cbs.com/shows/the-good-fight/)
-- ~~[Shameless](http://www.sho.com/shameless)~~
+- [x] [Shameless](http://www.sho.com/shameless)
 
 *Last updated:* May 17, 2018
 
