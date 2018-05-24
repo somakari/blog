@@ -6,13 +6,14 @@ title: Now
 ## What I'm doing now
 
 ### I'm focusing on:
-- #100DaysOfMeditation
-  - Meditating & eating healthy vegan food
+
 - #100DaysOfCode
   - [Improving JS skills](http://www.video2brain.com/es/formadores/sergio-brito)
   - [Front End Development Certification](https://www.freecodecamp.org) 
   - [Beginner’s Guide to Pure CSS Images](https://codepen.io/mikemang/post/a-beginner-s-guide-to-pure-css-images)
   - [How to Make Pure CSS Images](https://coding-artist.teachable.com/p/how-to-make-pure-css-images)
+  
+- [x] Meditating & eating healthy vegan food
 - [x] [SEO Posicionamiento Natural en Buscadores](https://gilfinart.com/blog/seo)
 - [x] [Improving Photoshop skills](http://www.youtube.com/watch?v=sF_jSrBhdlg)
 - [x] [Learning German](http://www.languagetransfer.org/complete-german)
