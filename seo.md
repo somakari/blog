@@ -259,12 +259,22 @@ Las ventanas emergentes que muestran el aviso del uso de cookies no penalizan.
 ```
 
 ## Monitorea rankings web de Google
+
 **[Free Monitor for Google](http://cleverstat.com/es/google-monitor-query.htm)**
 Monitorea su ranking en Google para cada una de sus keywords objetivo y muestra también la cantidad de competidores en Google.
 
 ![Free Monitor for Google]({{ site.url }}img/google-free-monitor.jpg)
 
+
+## ¿Duplicidad de contenidos?
+
+- Con la herramienta [SEO review tools](https://www.seoreviewtools.com/duplicate-content-checker/) se puede analizar una página web para verificar si existe contenido duplicado.
+
+
+[![Kitten vs mirror for the first time](https://i.imgur.com/U2dOH06.png)](https://www.youtube.com/watch?v=SlxdAJmeLcQ)
+
 __________
+
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"></a>
@@ -273,5 +283,3 @@ __________
 Recursos: 
 - [SEO: posicionamiento natural en buscadores (3.ª edición)](https://miriadax.net/web/seo-posicionamiento-natural-en-buscadores-3-edicion-/inicio) 
 - ["A Practical Guide to Search Engine Optimization (SEO) with Google"](https://www.taniarascia.com/a-practical-guide-to-search-engine-optimization-seo-with-google/)
-
-[![Kitten vs mirror for the first time](https://i.imgur.com/U2dOH06.png)](https://www.youtube.com/watch?v=SlxdAJmeLcQ)
