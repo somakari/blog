@@ -271,6 +271,10 @@ Monitorea su ranking en Google para cada una de sus keywords objetivo y muestra 
 - Con la herramienta [SEO review tools](https://www.seoreviewtools.com/duplicate-content-checker/) se puede analizar una página web para verificar si existe contenido duplicado.
 
 
+![SEO]({{ site.url }}img/seo.mp4)
+
+
+
 [![Kitten vs mirror for the first time](https://i.imgur.com/U2dOH06.png)](https://www.youtube.com/watch?v=SlxdAJmeLcQ)
 
 
