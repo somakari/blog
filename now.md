@@ -30,6 +30,6 @@ title: Now
 - [The Good Fight](http://www.cbs.com/shows/the-good-fight/)
 - [x] [Shameless](http://www.sho.com/shameless)
 
-*Last updated:* May 17, 2018
+*Last updated:* May 24, 2018
 
 *Inspiration:* I first learned about "now" pages from [Tania Rascia](https://taniarascia.com) who got the idea from [Derek Sivers](https://sivers.org/).
