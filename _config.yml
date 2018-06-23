@@ -19,10 +19,8 @@ title_image: "https://gilfinart.com/img/moon.png"
 # Build settings
 markdown: kramdown
 theme: minima
-exclude:
-  - Gemfile
-  - Gemfile.lock
 
 # Plugins
 plugins:
   - jemoji
+  - jekyll-feed
