@@ -5,6 +5,20 @@ image:  img/Buddha.jpg
 categories: Yoga
 ---
 
+<!-- Start categories -->
+  <div class="post-categories">
+  Categorías:
+  {% if post %}
+    {% assign categories = post.categories %}
+  {% else %}
+    {% assign categories = page.categories %}
+  {% endif %}
+  {% for category in categories %}
+  <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+  {% unless forloop.last %}&nbsp;{% endunless %}
+  {% endfor %}
+</div> <!-- End categories -->
+
 ## Live in your present
 
 "I finally realized that I can't make anybody else happy. I can only share my happiness or my sorrow with someone else. 
