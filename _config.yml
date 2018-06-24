@@ -14,7 +14,6 @@ title_image: "https://gilfinart.com/img/moon.png"
 header_pages:
   - about.md
   - now.md
-  - index.md
 
 # Build settings
 markdown: kramdown
