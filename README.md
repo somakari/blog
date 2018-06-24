@@ -1,1 +1,1 @@
-# Welcome to Gilfinart Blog 🕷
+# Welcome to Gilfinart Blog
