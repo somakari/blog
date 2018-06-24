@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Great First Post
-categories: junk
+categories: Junk
 ---
 
 ## Some great heading (h2)
