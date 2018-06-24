@@ -4,6 +4,20 @@ title: A Great First Post
 categories: Junk
 ---
 
+<!-- Start categories -->
+  <div class="post-categories">
+  Categorías:
+  {% if post %}
+    {% assign categories = post.categories %}
+  {% else %}
+    {% assign categories = page.categories %}
+  {% endif %}
+  {% for category in categories %}
+  <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+  {% unless forloop.last %}&nbsp;{% endunless %}
+  {% endfor %}
+</div> <!-- End categories -->
+
 ## Some great heading (h2)
 
 *Proin convallis mi ac felis pharetra aliquam*. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.
