@@ -11,13 +11,6 @@ github_username: somval
 title_image: "https://gilfinart.com/img/moon.png"
 # google_analytics: UA-12345678-1 / "UA_123456_1" 
 
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-header_pages:
- - https://gilfinart.com/blog/about.html
- - https://gilfinart.com/blog/now.html
- - https://gilfinart.com/blog/index.html
-
 # Build settings
 markdown: kramdown
 theme: minima
