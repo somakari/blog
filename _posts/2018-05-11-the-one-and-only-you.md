@@ -2,6 +2,7 @@
 layout: post
 title: Live in your present
 image:  img/Buddha.jpg
+categories: Yoga
 ---
 
 ## Live in your present
