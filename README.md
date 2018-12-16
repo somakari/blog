@@ -1,1 +1,1 @@
-# Welcome to SomaKari Blog
+# Welcome to SomAkari Blog
