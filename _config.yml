@@ -1,14 +1,14 @@
 # basic options
-title: Gilfinart blog
+title: SomAkari blog
 author: Somval
-email: somval@protonmail.com
+email: hello@somakari.com
 description: Diseñadora gráfica + diseñadora web + artista + autodidacta.
-url: https://gilfinart.com/blog/
-enforce_ssl: gilfinart.com/blog/
+url: https://somakari.com/blog/
+enforce_ssl: somakari.com/blog/
 
-twitter_username: somvalprints
+twitter_username: Som_Akari
 github_username: somval
-title_image: "https://gilfinart.com/img/moon.png"
+title_image: "https://somakari.com/img/moon.png"
 # google_analytics: UA-12345678-1 / "UA_123456_1" 
 
 header_pages:
