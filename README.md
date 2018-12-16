@@ -1,1 +1,1 @@
-# Welcome to Gilfinart Blog
+# Welcome to SomaKari Blog
