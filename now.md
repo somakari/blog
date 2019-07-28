@@ -22,6 +22,6 @@ title: Now
 - [Killing Eve](https://www.bbc.co.uk/iplayer/episodes/p06jy6bc/killing-eve)
 
 
-*Last updated:* Jul 28, 2018
+*Last updated:* Jul 28, 2019
 
 *Inspiration:* I first learned about "now" pages from [Tania Rascia](https://taniarascia.com) who got the idea from [Derek Sivers](https://sivers.org/).
