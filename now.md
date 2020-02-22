@@ -15,13 +15,13 @@ title: Now
 
 
 ### I’m currently reading:
-- [Happiness Unlimited](https://www.goodreads.com/book/show/25996423-happiness-unlimited) by Sister BK Shivani
+- [The Asperkid's (Secret) Book of Social Rules](https://www.goodreads.com/book/show/14903347-the-asperkid-s-secret-book-of-social-rules) by Jennifer Cook O'Toole
 
 
 ### TV Series I'm currently watching:
-- [Killing Eve](https://www.bbc.co.uk/iplayer/episodes/p06jy6bc/killing-eve)
+- [Doctor Who](https://www.bbc.co.uk/programmes/b006q2x0)
 
 
-*Last updated:* Jul 28, 2019
+*Last updated:* Feb 22, 2020
 
 *Inspiration:* I first learned about "now" pages from [Tania Rascia](https://taniarascia.com) who got the idea from [Derek Sivers](https://sivers.org/).
