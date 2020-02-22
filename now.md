@@ -11,6 +11,8 @@ title: Now
 
 - [Improving Photoshop skills](http://www.youtube.com/watch?v=sF_jSrBhdlg)
 
+- [Kung Fu](https://www.youtube.com/watch?v=6QL0v5wLxKM)
+
 - Meditating & eating healthy vegan food
 
 
