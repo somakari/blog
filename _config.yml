@@ -1,14 +1,14 @@
 # basic options
 title: SomAkari blog
-author: Somval
+author: SomAkari
 email: somval@protonmail.com
 description: Diseñadora gráfica + diseñadora web + artista + autodidacta.
-url: https://somakari.com/blog/
-enforce_ssl: somakari.com/blog/
+url: https://somakari.github.io/blog/
+enforce_ssl: somakari.github.io/blog/
 
 twitter_username: Som_Akari
-github_username: somval
-title_image: "https://somakari.com/img/moon.png"
+github_username: somakari
+title_image: "https://somakari.github.io/img/moon.png"
 # google_analytics: UA-12345678-1 / "UA_123456_1" 
 
 header_pages:
